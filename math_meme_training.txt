@@ -1,0 +1,80 @@
+Prompt: Correct this incorrect math meme: '6 ÷ 2(1+2) = 1.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 9.0. Explanation: PEMDAS: (1+2) = 3, then 6 ÷ 2 × 3 = 3 × 3 = 9, left-to-right.
+
+Prompt: Correct this incorrect math meme: '8 ÷ 2(2+2) = 1.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 16.0. Explanation: PEMDAS: (2+2) = 4, then 8 ÷ 2 × 4 = 4 × 4 = 16.
+
+Prompt: Correct this incorrect math meme: '5 + 3 × 2 = 16.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 11.0. Explanation: PEMDAS: 3 × 2 = 6, then 5 + 6 = 11. Multiply first.
+
+Prompt: Correct this incorrect math meme: '2³ = 6.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 8.0. Explanation: Exponents mean 2 × 2 × 2 = 8, not 2 × 3.
+
+Prompt: Correct this incorrect math meme: '1/2 + 1/2 = 0.25'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 1.0. Explanation: Add numerators: 1+1 = 2, keep denominator 2, so 2/2 = 1.
+
+Prompt: Correct this incorrect math meme: '9 - 3 ÷ 1/3 = 0.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 0.0. Explanation: 3 ÷ 1/3 = 9, then 9 - 9 = 0. Division by fraction flips it.
+
+Prompt: Correct this incorrect math meme: '4 + 2² = 36.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 8.0. Explanation: PEMDAS: 2² = 4, then 4 + 4 = 8. Exponents first.
+
+Prompt: Correct this incorrect math meme: '10 ÷ 5 × 2 = 1.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 4.0. Explanation: PEMDAS: 10 ÷ 5 = 2, then 2 × 2 = 4, left-to-right.
+
+Prompt: Correct this incorrect math meme: '3 + 4 × 5 = 35.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 23.0. Explanation: PEMDAS: 4 × 5 = 20, then 3 + 20 = 23.
+
+Prompt: Correct this incorrect math meme: '5² = 10.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 25.0. Explanation: 5² = 5 × 5 = 25, not 5 × 2.
+
+Prompt: Correct this incorrect math meme: '6 ÷ 3 + 1 = 3.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 3.0. Explanation: 6 ÷ 3 = 2, then 2 + 1 = 3. Division first.
+
+Prompt: Correct this incorrect math meme: '2 + 2 × 2 = 8.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 6.0. Explanation: PEMDAS: 2 × 2 = 4, then 2 + 4 = 6.
+
+Prompt: Correct this incorrect math meme: '1/3 + 1/3 = 0.333'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 0.667. Explanation: 1/3 + 1/3 = 2/3 ≈ 0.667, not 2/6 without simplifying.
+
+Prompt: Correct this incorrect math meme: '7 - 2 × 3 = 15.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 1.0. Explanation: PEMDAS: 2 × 3 = 6, then 7 - 6 = 1.
+
+Prompt: Correct this incorrect math meme: '4 ÷ 2 + 2 = 3.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 4.0. Explanation: PEMDAS: 4 ÷ 2 = 2, then 2 + 2 = 4.
+
+Prompt: Correct this incorrect math meme: '3² + 1 = 10.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 10.0. Explanation: 3² = 9, then 9 + 1 = 10. Exponents first.
+
+Prompt: Correct this incorrect math meme: '8 ÷ 4 × 2 = 1.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 4.0. Explanation: PEMDAS: 8 ÷ 4 = 2, then 2 × 2 = 4, left-to-right.
+
+Prompt: Correct this incorrect math meme: '5 × 2 - 3 = 13.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 7.0. Explanation: PEMDAS: 5 × 2 = 10, then 10 - 3 = 7.
+
+Prompt: Correct this incorrect math meme: '1 + 1 ÷ 2 = 1.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 1.5. Explanation: PEMDAS: 1 ÷ 2 = 0.5, then 1 + 0.5 = 1.5.
+
+Prompt: Correct this incorrect math meme: '9 ÷ 3(3) = 1.0'
+Please reason step by step and provide the correct answer with an explanation.
+Response: Correct answer: 9.0. Explanation: PEMDAS: 9 ÷ 3 × 3 = 3 × 3 = 9, left-to-right.
+
